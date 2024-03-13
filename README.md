@@ -53,7 +53,7 @@ By the end of the unit, I was able to:
 - Create C# scripts and apply them to objects.
 - Add Rigidbody and Collider components to allow objects to collide realistically.
 - Declare variables properly and initialize/assign them with appropriate access modifiers.
- ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity-Learn/main/scene1.png)
+ ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity_Learn/main/scene1.png)
 
 #### 2. Plane Control
 
@@ -73,7 +73,7 @@ In this project, I reinforced the following skills/concepts:
 - Moving and rotating objects in scene view to position them the way I wanted.
 - Assigning variables in the inspector and initializing them in code.
 - Implementing Input variables to control the movement/rotation of objects based on User input.
- ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity-Learn/main/scene3.png)
+ ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity_Learn/main/scene3.png)
 
 #### 3. Feed the Animals
 
@@ -95,6 +95,6 @@ Throughout the project, I learned how to:
   
   By the end of this unit, I was able to create a basic game with the ability to launch projectiles and maneuver the player to keep the game alive.
   
-  ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity-Learn/main/scene2.png)
+  ![Screenshot of the project](https://raw.githubusercontent.com/HumeyraBali/Unity_Learn/main/scene2.png)
 
 
